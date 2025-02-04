@@ -9,7 +9,7 @@ I've Fully Reverse Engineered the Following Values from Instagram Android / Goog
 - [SafetyNet](https://developers.google.com/android/reference/com/google/android/gms/safetynet/SafetyNet)
   - safetynet_token
   - safetynet_response
-- Instagram
+- Instagram Signatures
   - encrypted_password
   - caa_core_data_encrypted
   - INTERNAL__latency_qpl_instance_id
