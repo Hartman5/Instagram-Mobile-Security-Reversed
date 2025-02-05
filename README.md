@@ -13,6 +13,7 @@ I've Fully Reverse Engineered the Following Values from Instagram Android / Goog
   - encrypted_password
   - caa_core_data_encrypted
   - INTERNAL__latency_qpl_instance_id
+  - x-ig-attest-params
   - Any Other Value
 - Lowlevel Requests
   - MQTT Requests
